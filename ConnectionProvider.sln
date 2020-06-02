@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectionProvider", "ConnectionProvider.csproj", "{8A73C1FC-1750-432B-B2C2-A97F0B11211A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCORM", "..\..\CommonLib\DataLayer\NCORM\NCORM.csproj", "{B8CFCCAC-DD51-4244-9104-22AD8ED55BC3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
